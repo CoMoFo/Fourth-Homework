@@ -1,0 +1,24 @@
+
+.crystals{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crystal{
+    height: 150px;
+    width: 150px;
+}
+
+.navbar{
+    justify-content: center;
+    padding: 20px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.jumbotron{
+    font-family: 'Lora', serif;
+}
